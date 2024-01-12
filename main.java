@@ -1,3 +1,5 @@
+package servlets;
+
 // Wildcard import avoided
 import java.util.Scanner;
 

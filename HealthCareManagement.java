@@ -1,3 +1,5 @@
+package servlets;
+
 import java.util.*; // Rule 1 Violation
 
 public class HealthCareManagement {
