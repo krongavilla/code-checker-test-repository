@@ -13,6 +13,7 @@ public class Paytype implements Serializable {
 	private int id;
 	private String title;
 	private Timestamp date;
+	private var number;
 
 	private Paytype() {
 		this.id = 0;

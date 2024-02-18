@@ -24,6 +24,7 @@ public class HealthCareManagement {
     // Medical device handling
     public class MedicalDeviceHandler {
         private int equipmentID; // Violation of Rule 4 and Rule 5
+        private var helloTest;
 
         // Retrieving data for medical devices
         public void retrieveDeviceData() {
